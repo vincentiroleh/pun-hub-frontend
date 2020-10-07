@@ -6,7 +6,7 @@
     </div>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <a class="navbar-brand" href="#">Pun World - Give us a word of wisdom </a>
+      <a class="navbar-brand" href="#">WordPlay - Lets have some fun </a>
     </nav>
     <router-view />
   </div>
