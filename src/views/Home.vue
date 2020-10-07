@@ -74,12 +74,22 @@
       </li>
       <hr />
     </div>
+
+    <div>
+      <footer class="text-center mb-2">
+        Made for fun by
+        <a
+          href="https://twitter.com/irolehvincent"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="bg-primary text-white"
+        >Vincent Iroleh</a>
+      </footer>
+    </div>
   </div>
 </template>
 
 <script>
-
-// const API_URL = 'http://localhost:4000/messages';
 const API_URL = process.env.VUE_APP_MY_ENV_API_URL;
 
 export default {
@@ -133,7 +143,6 @@ export default {
     },
   },
 };
-
 </script>
 
 <style>
