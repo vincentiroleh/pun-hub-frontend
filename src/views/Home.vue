@@ -26,7 +26,7 @@
           type="text"
           class="form-control"
           id="subject"
-          placeholder="Enter a subject for your pun"
+          placeholder="Enter a subject for your wordplay"
           required
         />
       </div>
@@ -37,7 +37,7 @@
           class="form-control"
           id="message"
           rows="3"
-          placeholder="Give us a word of wisdom, and we won't leave you"
+          placeholder="Enter your wordplay here"
         ></textarea>
       </div>
       <div class="form-group">
@@ -47,7 +47,7 @@
           type="url"
           class="form-control"
           id="imageURL"
-          placeholder="URL to an image that describes your pun"
+          placeholder="URL to an image that describes your wordplay"
         />
       </div>
       <button type="submit" class="btn btn-primary">Submit</button>

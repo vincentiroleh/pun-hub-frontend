@@ -1,6 +1,6 @@
 # Pun Hub
 
-Post and read pun with the rest of the world
+Post and read wordplays with the rest of the world
 
 [Demo](https://github.com/vincentiroleh/pun-hub-frontend)
 
